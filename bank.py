@@ -10,7 +10,7 @@ def rewardsSystem():
     prompt = input("Greet me! ").strip().lower()
     
     if(prompt.startswith("h")):
-        if(prompt == "hello"):
+        if("hello" in prompt):
             return 0
         else:
             return 20
