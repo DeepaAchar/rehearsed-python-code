@@ -30,9 +30,10 @@ def main():
             file_path_to_wr = r"D:\CODING!!!\Project Python\practice_exercise\after.csv"
 
             with open(file=file_path_to_rd, mode='r') as file1:
-                with open(file=file_path_to_wr, mode='a') as file2:
+                with open(file=file_path_to_wr, mode='a', newline='') as file2:
                     reader = csv.DictReader(file1)
                     writer = csv.DictWriter(file2, fieldnames=['first', 'last', 'house'])
+                    writer.writeheader()
                     for row in reader:
                         name = row['name']
                         street = row['house']
