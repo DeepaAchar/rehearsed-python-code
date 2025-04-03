@@ -34,17 +34,17 @@ with open(file=file_path, mode='r') as file:
         print(f"{person['name']} lives in {person['house']}")
 
     # Here is the sort for the at=rray of dictionary ####
-
-    """ def get_name(person):
+    # Create a function for dict sort
+    def get_name(person):
         return person['name']
     
-    print("\n People (Sorted)")
+    print("\n People (dict sort approach (Sorted)")
     try:
         for person in sorted(people, key=get_name):
             print(f'{person['name']} lives in {person['house']}')
 
     except KeyError as e:
-        print(f'ERROR: {e}') """
+        print(f'ERROR: {e}')
     
     ###### Lambda function for finding the key, sort the dictionary (Lambda expression) ####
      # lambda_expr ::= "lambda" [parameter_list] ":" expression 
