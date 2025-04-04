@@ -36,7 +36,7 @@ print(f'\n pii: \n {contacts}')
 contacts = sorted(p_info, key=lambda x: x[1]['email'])
 print(f'\n p_info: \n {contacts}')
 contacts = sorted(pii, key=lambda x: x[2:])
-print(f'\n pii: \n {contacts}')
+print(f'\n PII: \n {contacts}')
 
 ####### Filter ######
 num_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
