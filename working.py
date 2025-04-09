@@ -22,7 +22,7 @@ def main():
 
 def convert(s):
     try:
-        if matches := re.match("([0-9][0-2]?):?([0-5][0-9])? ([A|P][M]) to ([0-9][0-2]?):?([0-5][0-9]?)? ([A|P][M])", s):
+        if matches := re.match("^([0-9][0-2]?):?([0-5][0-9])? ([A|P][M]) to ([0-9][0-2]?):?([0-5][0-9]?)? ([A|P][M])$", s):
             # print(f'{matches.group(1)}, {matches.group(2)}, {matches.group(3)}, {matches.group(4)}, {matches.group(5)}, {matches.group(6)}')
 
             if matches.group(3) == "AM":
