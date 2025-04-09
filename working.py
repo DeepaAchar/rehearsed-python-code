@@ -36,13 +36,13 @@ def convert(s):
             if matches.group(2) != None:
                 b_min = matches.group(2)
             else:
-                b_min = "00"
+                b_min = 0
             if matches.group(5) != None:
                 e_min = matches.group(5)
             else:
-                e_min = "00"    
+                e_min = 0    
 
-            return (f'{begin}:{b_min} to {end}:{e_min}')
+            return (f'{begin:02}:{b_min:02} to {end:02}:{e_min:02}')
 
         else:
             raise ValueError
