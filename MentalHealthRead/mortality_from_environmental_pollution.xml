@@ -1,0 +1,3089 @@
+<Data>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>18.3</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>17.6</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>18.9</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.1 [0.6-1.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.4 [0.8-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.8 [0.5-1.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.1 [0.7-1.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.4 [0.8-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.8 [0.5-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.1 [0.7-1.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.4 [0.8-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.9 [0.5-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [0.7-1.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.8-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.9 [0.6-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [0.7-1.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.8-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.9 [0.6-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [0.7-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.9-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.9 [0.6-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.3 [0.8-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.6 [0.9-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.9 [0.6-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.3 [0.8-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.6 [0.9-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.7-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.3 [0.8-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.6 [1.0-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.7-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.9-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [1.0-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.7-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.9-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [1.1-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.7-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.9-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.1-2.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.9-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.2-2.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [1.0-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.2-2.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.0-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.3-2.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.0-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.3-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.0-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.3-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.0-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.3-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.0-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.3-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.0-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.3-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Global</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.7-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>46.7</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>51.2</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>42.2</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.5 [1.2-5.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.1 [1.5-6.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.9 [0.9-3.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.6 [1.2-5.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.3 [1.5-6.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.0 [1.0-3.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.7 [1.3-5.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.3 [1.6-6.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.0 [1.0-4.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.7 [1.3-5.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.4 [1.6-6.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.1 [1.0-4.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.7 [1.3-5.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.4 [1.6-6.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.0 [1.0-4.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.8 [1.4-5.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.5 [1.7-6.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.1 [1.0-4.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.9 [1.4-5.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.6 [1.7-6.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.1 [1.0-4.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.9 [1.4-5.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.7 [1.8-7.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.2 [1.1-4.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.0 [1.5-5.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.8 [1.8-7.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.2 [1.1-4.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.1 [1.5-5.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.9 [1.9-7.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.1-4.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.1 [1.5-5.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.9 [1.9-7.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.1-4.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.1 [1.5-5.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.0 [1.9-7.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.1-4.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.2 [1.6-6.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.1 [2.0-7.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.2-4.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.2 [1.6-6.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.1 [2.0-7.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.2-4.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.1 [1.5-5.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.0 [1.9-7.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.2 [1.1-4.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.2 [1.6-6.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.1 [2.0-7.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.1-4.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.2 [1.6-6.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.2 [2.0-7.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.1-4.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.4 [1.6-6.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.3 [2.1-8.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.4 [1.2-4.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.4 [1.6-6.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.5 [2.1-8.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.4 [1.2-4.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.4 [1.6-6.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.4 [2.1-8.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Africa</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Female</SEX>
+    <Display>2.3 [1.1-4.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>5</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.9</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>5</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.2 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.2 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.5 [0.3-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.4-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.5-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.3-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.4-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Americas</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>29.6</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>23.9</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>35.6</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.4 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.2 [0.1-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.3 [0.2-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.4 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.2 [0.1-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.4 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.1-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.2-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.4 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.1-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.2-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.2-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.2-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.4 [0.2-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.5 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.5 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.3 [0.2-0.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.5 [0.3-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.4 [0.2-0.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.6 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.7 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.5 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.4 [0.2-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.6 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.4 [0.3-0.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.6 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.7 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.6 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.7 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.6 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.7 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.6 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.7 [0.3-1.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.6 [0.3-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.7 [0.4-1.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.5 [0.3-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>0.7 [0.3-1.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Male</SEX>
+    <Display>0.8 [0.4-1.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>South-East Asia</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.6 [0.3-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>3.6</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.9</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>3.3</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.1 [0.9-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [1.3-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.6 [0.4-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [0.9-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.4-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.6 [0.5-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [1.0-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.5-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.6 [0.5-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.6-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.7 [0.6-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.3 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.7-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.7 [0.6-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [1.2-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.1 [1.8-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.7 [0.6-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [1.2-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.1 [1.8-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.7 [0.6-0.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.3-1.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.2 [2.0-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.8 [0.7-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [1.4-1.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.4 [2.1-2.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.8 [0.7-0.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.5-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.6 [2.3-3.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.9 [0.8-1.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.8 [1.6-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.7 [2.5-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Female</SEX>
+    <Display>0.9 [0.8-1.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.0 [1.7-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.1 [2.7-3.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.8-1.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.1 [1.8-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.2 [2.9-3.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.9-1.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.2 [2.0-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.5 [3.1-3.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.9-1.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.5 [2.2-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Male</SEX>
+    <Display>3.9 [3.4-4.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [1.0-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.6 [2.3-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.0 [3.6-4.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [1.1-1.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.7 [2.4-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.2 [3.8-4.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.7 [2.4-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.3 [3.8-4.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.7 [2.4-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.3 [3.8-4.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>2.7 [2.4-3.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.3 [3.9-4.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Europe</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>18.4</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>19</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>17.8</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.1 [0.5-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.2 [0.5-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.4-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.1 [0.5-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.2 [0.5-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.4-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.1 [0.5-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.2 [0.6-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.0 [0.5-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [0.5-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.3 [0.6-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.5-2.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [0.5-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.3 [0.6-2.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.5-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.2 [0.6-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.3 [0.6-2.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.1 [0.5-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.7-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.7-3.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [0.6-2.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.7-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.7-3.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [0.7-2.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.7-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.7-3.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [0.7-2.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [0.7-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.7-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [0.7-2.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [0.7-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.6 [0.7-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.5 [0.7-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [0.7-3.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.6 [0.7-3.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.5 [0.7-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [0.7-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.6 [0.7-3.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.5 [0.7-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [0.7-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [0.7-3.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.5 [0.7-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.7-2.8]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.5 [0.7-3.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [0.6-2.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [0.7-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [0.8-3.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.5 [0.7-2.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [0.7-3.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [0.8-3.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.5 [0.7-3.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [0.8-3.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [0.8-3.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.6 [0.7-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [0.8-3.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [0.8-3.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.6 [0.7-3.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [0.8-3.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [0.8-3.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Eastern Mediterranean</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.6 [0.8-3.2]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>4.3</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>4.6</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to exposure to unsafe WASH services (per 100 000 population) (SDG 3.9.2)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>4.1</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.4 [0.9-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [0.9-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2019</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [0.9-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [0.9-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.0-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2018</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [0.9-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [0.9-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.0-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2017</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [0.9-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [1.0-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.0-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2016</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [1.0-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [1.0-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.0-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2015</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.0-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [1.1-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.0-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2014</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.1-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.1-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2013</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [1.1-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.1-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.1-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2012</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [1.1-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.2-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.2-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2011</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [1.2-1.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.2-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.2-2.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2010</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [1.2-1.7]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.2-2.1]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.2-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2009</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [1.2-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.2-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.3-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2008</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [1.2-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.2-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.3-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2007</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.2-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.3-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2006</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.3-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.4-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2005</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.4 [1.1-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.7 [1.3-2.0]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Male</SEX>
+    <Display>2.0 [1.5-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2004</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.6]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.6 [1.3-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.9 [1.5-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2003</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.3 [1.1-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.2-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.8 [1.4-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2002</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [1.0-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.2-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [1.3-2.3]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2001</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [1.0-1.5]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Both sexes</SEX>
+    <Display>1.5 [1.1-1.9]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Male</SEX>
+    <Display>1.7 [1.3-2.4]</Display>
+  </Fact>
+  <Fact>
+    <REGION>Western Pacific</REGION>
+    <GHO>Mortality rate attributed to unintentional poisoning (per 100 000 population)</GHO>
+    <YEAR>2000</YEAR>
+    <SEX>Female</SEX>
+    <Display>1.2 [1.0-1.5]</Display>
+  </Fact>
+</Data>
